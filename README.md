@@ -6,10 +6,7 @@ Welcome to the **Poetry Haven** landing page project! This project is a simple a
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
@@ -28,13 +25,6 @@ Poetry Haven is a platform that brings poets and poetry lovers together. The lan
 - **HTML5**
 - **CSS3**
 - **JavaScript** (if applicable)
-- **Font Awesome** (for icons, if used)
-- **Google Fonts** (for typography)
+- **React** 
 
-## Installation
 
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/poetry-haven-landing-page.git
